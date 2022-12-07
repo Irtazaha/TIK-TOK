@@ -1,4 +1,4 @@
-from selenium import webdriver
+from selenium, import webdriver,
 from os import system, name
 
 from time import time, strftime, gmtime, sleep
